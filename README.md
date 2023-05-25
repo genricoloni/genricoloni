@@ -4,7 +4,7 @@ hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 computer engineering student @University of Pisa, italy
 -------------------------------------------------------
 
-i'm a computer engineering student, i planned to graduate on Sept 2023 and i will enroll to Computer Engineering Master Degree, CyberSecurity curriculum. i'm writing my Bachelor thesis about Spectre v4
+i'm a computer engineering student, i planned to graduate in Sept 2023 and i will enroll to Computer Engineering Master Degree, CyberSecurity curriculum. i'm writing my Bachelor thesis about Spectre v4
 
 * 🌍  i'm based in Pisa, Italy
 * ✉️  you can contact me at [genricoloni\(at\)gmail.com](mailto:genricoloni+github@gmail.com)
