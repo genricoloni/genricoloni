@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giovanni Enrico!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Giovanni Enrico!
 ========================================================================================================================================
 
 Computer engineering student @University of Pisa, italy
@@ -6,9 +6,9 @@ Computer engineering student @University of Pisa, italy
 
 I'm a Computer Engineering Master student, I got my bachelor degree in Sept '23 with a thesis about Spectre v4.
 
-* 🌍  I'm based in Pisa, Italy
-* ✉️  You can contact me at [You can contact me at genricoloni(at)gmail.com](mailto:You can contact me at genricoloni(at)gmail.com)
-* ⚡  can't work on anything without good music in background
+* 🌍 Based in Pisa, Italy
+* ✉️ Let's keep in touch! [genricoloni\(at\)gmail.com](mailto:genricoloni+github@gmail.com)
+* ⚡  Can't work on anything without good music in background
 
 ### Skills
 
